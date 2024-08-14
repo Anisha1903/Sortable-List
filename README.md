@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+Check out the live demo [here](https://sortable-list-gamma.vercel.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
